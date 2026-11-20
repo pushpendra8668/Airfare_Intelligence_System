@@ -930,7 +930,7 @@ elif page == "Dataset Explorer":
 st.markdown(
     '<div class="footer">'
     'AIRFARE INTELLIGENCE SYSTEM · HISTORICAL DATA + ML<br>'
-    'Developed by Pushpendra Mauryaj<br>'
+    'Developed by Pushpendra Maurya<br>'
     'Historical prices are for analysis only and do not represent live availability.'
     '</div>',
     unsafe_allow_html=True
